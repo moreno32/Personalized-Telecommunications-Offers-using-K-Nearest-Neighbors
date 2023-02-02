@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Personalized Telecommunications Offers using K-Nearest Neighbors",
+    "description": "This project aims to classify a group of telecommunications customers into different segments based on their service usage patterns.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Personalized-Telecommunications-Offers-using-K-Nearest-Neighbors.git",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
